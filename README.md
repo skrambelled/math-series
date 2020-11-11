@@ -1,6 +1,6 @@
 # Math series module
 
-Pull Request
+[Pull Request](https://github.com/skrambelled/math-series/pull/1)
 
 ## Problem Domain
 
