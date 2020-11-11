@@ -20,4 +20,4 @@ sum_series(n, seed1, seed2) | 0 default | 1 default |
 
 ## Big O
 
-O(2^n) - space and time, as we are calling this recursively for two values on each iteration.
+O(2^n) - space and time, because we are calling this recursively for two values on each iteration.
